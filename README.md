@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+**`Bachelors's Degree, Information Science
+   Zip Code Wilmington graduate (full-stack coding bootcamp)`**
+
+An enthusiastic IT professional excited to take my career to the next level by becoming a software developer. Ready to take on the challenges of programming with creativity, attention to detail, and strategy. Motivated to learn, grow, and excel in Software Development.
+
 #
 
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
