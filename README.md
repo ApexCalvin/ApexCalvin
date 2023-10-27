@@ -2,7 +2,7 @@
 
 **`Associate's Degree, Computer and Information Sciences`**  
 **`Bachelor's Degree, Information Systems`**  
-**`Zip Code Wilmington graduate (full-stack coding bootcamp)`**  
+**`Zip Code Wilmington Certificate (full-stack coding bootcamp)`**  
 
 An enthusiastic IT professional excited to take my career to the next level by becoming a software developer. Ready to take on the challenges of programming with creativity, attention to detail, and strategy. Motivated to learn, grow, and excel in Software Development.
 
