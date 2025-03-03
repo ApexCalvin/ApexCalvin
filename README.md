@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**`Associate's Degree, Computer and Information Sciences`**  
 **`Bachelor's Degree, Information Systems`**  
 **`Zip Code Wilmington Certificate (full-stack coding bootcamp)`**  
 
